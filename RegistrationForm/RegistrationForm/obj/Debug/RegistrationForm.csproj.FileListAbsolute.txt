@@ -1,5 +1,0 @@
-c:\users\dinesh\onedrive\documents\visual studio 2012\Projects\RegistrationForm\RegistrationForm\bin\RegistrationForm.dll
-c:\users\dinesh\onedrive\documents\visual studio 2012\Projects\RegistrationForm\RegistrationForm\bin\RegistrationForm.pdb
-c:\users\dinesh\onedrive\documents\visual studio 2012\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
-c:\users\dinesh\onedrive\documents\visual studio 2012\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.dll
-c:\users\dinesh\onedrive\documents\visual studio 2012\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
